@@ -38,3 +38,5 @@ if (nama === "") {
         console.log("Tapi kayaknya kamu jadi bot aja ya, peran yang kamu pilih ga ada");
     }
 }
+
+
